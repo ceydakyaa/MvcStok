@@ -56,3 +56,5 @@ Bu proje, ASP.NET MVC’nin temel prensiplerini kavramaya yardımcı olurken, uy
 
 ![Image](https://github.com/user-attachments/assets/b836e224-b191-4367-b400-c04103d5ca81) 
 
+![Image](https://github.com/user-attachments/assets/8f356d56-d63d-4cac-9aac-b76eaa700340)
+
