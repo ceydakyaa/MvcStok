@@ -54,3 +54,5 @@ Kullanılan Teknolojiler
 
 Bu proje, ASP.NET MVC’nin temel prensiplerini kavramaya yardımcı olurken, uygulamalı senaryolarla geliştirme süreçlerini daha verimli hale getirmiştir. 
 
+![Image](https://github.com/user-attachments/assets/b836e224-b191-4367-b400-c04103d5ca81) 
+
