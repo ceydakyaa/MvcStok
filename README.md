@@ -1,4 +1,4 @@
-MVC Stok - 50 Derste ASP.NET MVC Eğitimi
+🌟 MVC Stok - 50 Derste ASP.NET MVC Eğitimi 🌟
 
 Bu proje, ASP.NET MVC mimarisini adım adım öğrenmeyi amaçlayan 50 derslik bir eğitim sürecinin parçasıdır. Model-View-Controller (MVC) yapısının temel ve ileri seviye kullanım teknikleri ele alınarak, uygulamalı örneklerle pekiştirilmiştir.
 
