@@ -28,16 +28,23 @@ Modal Pop-up Kullanımı
 Kullanıcı deneyimini iyileştirmek amacıyla Bootstrap Modal entegrasyonu sağlanmıştır:
 
 Yardım mesajları ve ek bilgi pencereleri oluşturulmuştur.
+
 İşlemler için onay mekanizması eklenmiştir.
+
 Arama ve Filtreleme Özellikleri
+
 Kullanıcıların ihtiyaç duydukları verilere hızla ulaşabilmesi için GET metodu ile çalışan arama ve filtreleme işlemleri uygulanmıştır.
 
 Kullanılan Teknolojiler
 
 ASP.NET MVC – Web uygulama geliştirme çerçevesi
+
 Entity Framework – Veritabanı yönetimi için ORM aracı
+
 SQL Server – Veri saklama ve yönetimi
+
 Bootstrap – Modern ve duyarlı kullanıcı arayüzü tasarımı
+
 JavaScript & jQuery – Dinamik ve etkileşimli bileşenler
 
 Bu proje, ASP.NET MVC’nin temel prensiplerini kavramaya yardımcı olurken, uygulamalı senaryolarla geliştirme süreçlerini daha verimli hale getirmiştir. 
