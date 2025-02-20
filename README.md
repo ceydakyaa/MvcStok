@@ -9,48 +9,48 @@ Bu eğitim sürecinde, ASP.NET MVC ile gerçek dünya projelerinde kullanılabil
 
 Veri Yönetimi (CRUD İşlemleri)
 
-Create: Yeni kayıt ekleme
+☆ Create: Yeni kayıt ekleme
 
-Read: Verileri listeleme ve detay görüntüleme
+☆ Read: Verileri listeleme ve detay görüntüleme
 
-Update: Mevcut verileri güncelleme
+☆ Update: Mevcut verileri güncelleme
 
-Delete: Kayıtları silme
+☆ Delete: Kayıtları silme
 
 Tüm CRUD işlemleri Entity Framework kullanılarak hayata geçirilmiştir.
 
 
 Doğrulama ve Veri Kontrolleri
 
-Kullanıcı girdileri doğrulanarak uygun formatta olup olmadığı denetlenmiştir.
-Data Annotation ile zorunlu alanlar belirlenmiş ve format gereksinimleri (örneğin, e-posta doğrulama) sağlanmıştır.
+☆ Kullanıcı girdileri doğrulanarak uygun formatta olup olmadığı denetlenmiştir.
+☆ Data Annotation ile zorunlu alanlar belirlenmiş ve format gereksinimleri (örneğin, e-posta doğrulama) sağlanmıştır.
 
 
 Modal Pop-up Kullanımı
 
-Kullanıcı deneyimini iyileştirmek amacıyla Bootstrap Modal entegrasyonu sağlanmıştır:
+☆ Kullanıcı deneyimini iyileştirmek amacıyla Bootstrap Modal entegrasyonu sağlanmıştır:
 
-Yardım mesajları ve ek bilgi pencereleri oluşturulmuştur.
+☆ Yardım mesajları ve ek bilgi pencereleri oluşturulmuştur.
 
-İşlemler için onay mekanizması eklenmiştir.
+☆ İşlemler için onay mekanizması eklenmiştir.
 
 
 Arama ve Filtreleme Özellikleri
 
-Kullanıcıların ihtiyaç duydukları verilere hızla ulaşabilmesi için GET metodu ile çalışan arama ve filtreleme işlemleri uygulanmıştır.
+☆ Kullanıcıların ihtiyaç duydukları verilere hızla ulaşabilmesi için GET metodu ile çalışan arama ve filtreleme işlemleri uygulanmıştır.
 
 
 Kullanılan Teknolojiler
 
-ASP.NET MVC – Web uygulama geliştirme çerçevesi
+☆ ASP.NET MVC – Web uygulama geliştirme çerçevesi
 
-Entity Framework – Veritabanı yönetimi için ORM aracı
+☆ Entity Framework – Veritabanı yönetimi için ORM aracı
 
-SQL Server – Veri saklama ve yönetimi
+☆ SQL Server – Veri saklama ve yönetimi
 
-Bootstrap – Modern ve duyarlı kullanıcı arayüzü tasarımı
+☆ Bootstrap – Modern ve duyarlı kullanıcı arayüzü tasarımı
 
-JavaScript & jQuery – Dinamik ve etkileşimli bileşenler
+☆ JavaScript & jQuery – Dinamik ve etkileşimli bileşenler
 
 Bu proje, ASP.NET MVC’nin temel prensiplerini kavramaya yardımcı olurken, uygulamalı senaryolarla geliştirme süreçlerini daha verimli hale getirmiştir. 
 
