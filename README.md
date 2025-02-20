@@ -9,9 +9,13 @@ Bu eğitim sürecinde, ASP.NET MVC ile gerçek dünya projelerinde kullanılabil
 Veri Yönetimi (CRUD İşlemleri)
 
 Create: Yeni kayıt ekleme
+
 Read: Verileri listeleme ve detay görüntüleme
+
 Update: Mevcut verileri güncelleme
+
 Delete: Kayıtları silme
+
 Tüm CRUD işlemleri Entity Framework kullanılarak hayata geçirilmiştir.
 
 Doğrulama ve Veri Kontrolleri
