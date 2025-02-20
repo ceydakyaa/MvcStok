@@ -6,6 +6,7 @@ Proje Kapsamı ve Özellikleri
 
 Bu eğitim sürecinde, ASP.NET MVC ile gerçek dünya projelerinde kullanılabilecek temel bileşenler ve gelişmiş özellikler uygulanmıştır:
 
+
 Veri Yönetimi (CRUD İşlemleri)
 
 Create: Yeni kayıt ekleme
@@ -18,10 +19,12 @@ Delete: Kayıtları silme
 
 Tüm CRUD işlemleri Entity Framework kullanılarak hayata geçirilmiştir.
 
+
 Doğrulama ve Veri Kontrolleri
 
 Kullanıcı girdileri doğrulanarak uygun formatta olup olmadığı denetlenmiştir.
 Data Annotation ile zorunlu alanlar belirlenmiş ve format gereksinimleri (örneğin, e-posta doğrulama) sağlanmıştır.
+
 
 Modal Pop-up Kullanımı
 
@@ -31,9 +34,11 @@ Yardım mesajları ve ek bilgi pencereleri oluşturulmuştur.
 
 İşlemler için onay mekanizması eklenmiştir.
 
+
 Arama ve Filtreleme Özellikleri
 
 Kullanıcıların ihtiyaç duydukları verilere hızla ulaşabilmesi için GET metodu ile çalışan arama ve filtreleme işlemleri uygulanmıştır.
+
 
 Kullanılan Teknolojiler
 
